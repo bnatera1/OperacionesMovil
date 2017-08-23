@@ -4,6 +4,14 @@
     <string name="borrar">Clear</string>
     <string name="calcular">Calculator</string>
     <string name="titulo">title</string>
-    <string name="primer_numero"></string>
+    <string name="primer_numero">firts number</string>
     <string name="resultado">result</string>
+    <string name="multiplicacion">Multiplication</string>
+    <string name="resta">Subtract</string>
+    <string name="suma">Add</string>
+    <string name="division">Division</string>
+    <string name="segundo_numero">second nomber</string>
+    <string name="msm_error_dos">Type number two</string>
+    <string name="msm_error_uno">Type number one</string>
+    <string name="operaciones">Options</string>
 </resources>

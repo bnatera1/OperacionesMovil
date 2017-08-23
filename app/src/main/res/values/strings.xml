@@ -6,4 +6,17 @@
     <string name="segundo_numero">Segundo Número</string>
     <string name="calcular">Calcular</string>
     <string name="borrar">Borrar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+    <string-array name="operaciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
+    <string name="msm_error_uno">Digite el numero uno</string>
+    <string name="msm_error_dos">Digite el numero dos</string>
+    <string name="operaciones">Operaciones</string>
 </resources>
