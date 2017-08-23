@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="@string/primer_numero"
-            android:inputType="number" />
+            android:inputType="number|numberDecimal" />
 
         <EditText
             android:id="@+id/txtNumeroDos"
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="@string/segundo_numero"
-            android:inputType="number" />
+            android:inputType="number|numberDecimal" />
 
         <TextView
             android:id="@+id/l"
