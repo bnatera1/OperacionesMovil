@@ -19,4 +19,5 @@
     <string name="msm_error_uno">Digite el numero uno</string>
     <string name="msm_error_dos">Digite el numero dos</string>
     <string name="operaciones">Operaciones</string>
+    <string name="mensaje_error_tres">No puede dividir entre cero</string>
 </resources>

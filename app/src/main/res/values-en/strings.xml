@@ -14,4 +14,5 @@
     <string name="msm_error_dos">Type number two</string>
     <string name="msm_error_uno">Type number one</string>
     <string name="operaciones">Options</string>
+    <string name="mensaje_error_tres">Can\'t division  by zero</string>
 </resources>
